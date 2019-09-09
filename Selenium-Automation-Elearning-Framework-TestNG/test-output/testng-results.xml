@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14298" started-at="2019-09-04T05:51:22Z" finished-at="2019-09-04T05:51:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14298" started-at="2019-09-04T05:51:22Z" finished-at="2019-09-04T05:51:36Z">
+      <class name="com.training.sanity.tests.RecoverpassTests">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.RecoverpassTests@ea4a92b]" name="setUpBeforeClass" is-config="true" duration-ms="0" started-at="2019-09-04T11:21:22Z" finished-at="2019-09-04T11:21:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.sanity.tests.RecoverpassTests@ea4a92b]" name="setUp" is-config="true" duration-ms="8883" started-at="2019-09-04T11:21:22Z" finished-at="2019-09-04T11:21:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validRecoverpassTests()[pri:0, instance:com.training.sanity.tests.RecoverpassTests@ea4a92b]" name="validRecoverpassTests" duration-ms="3578" started-at="2019-09-04T11:21:31Z" finished-at="2019-09-04T11:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validRecoverpassTests -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.RecoverpassTests@ea4a92b]" name="tearDown" is-config="true" duration-ms="1795" started-at="2019-09-04T11:21:35Z" finished-at="2019-09-04T11:21:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.training.sanity.tests.RecoverpassTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
